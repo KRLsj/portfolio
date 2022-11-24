@@ -29,5 +29,5 @@ _강조글자_
 (http://www.daum.net '다음사이트 바로가기')
 
 ---
-[![마켓컬리로고](https://raw.githubusercontent.com/KRLsj/marketkully/c63d6e4d3c6b951413750d52bfd99f01b275217d/images/logo.svg "컬리로고")]
+🌺 :hibiscus:[![마켓컬리로고](https://raw.githubusercontent.com/KRLsj/marketkully/c63d6e4d3c6b951413750d52bfd99f01b275217d/images/logo.svg "컬리로고")]
 (https://krlsj.github.io/marketkully/ '만들어본 컬리 사이트 바로가기')
